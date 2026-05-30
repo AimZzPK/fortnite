@@ -21,7 +21,7 @@ h1 {
 }
 #hero {
   position: relative; /* needed for ::before to work */
-  background-image: url("images/hero.jpg");
+  background-image: url("hero.jpg");
   height: 100vh;
   display: flex;
   flex-direction: column;
